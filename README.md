@@ -1,5 +1,5 @@
 # Neural_Network_from_Scratch
-This project facilitates training a fully connected neural network to predict outputs for given input data. If you are not seeing the equations below in the correct format, please install the [MathJax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en) plugin in your chrome browser.
+This project facilitates training a fully connected neural network to predict outputs for given input data. If you are not seeing the equations below in the correct format, please install the [MathJax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en) plugin for your chrome browser.
 
 ### Till now this project has:
 
