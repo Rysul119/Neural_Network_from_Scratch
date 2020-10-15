@@ -17,7 +17,7 @@ This project facilitates training a fully connected neural network to predict ou
   - More activation functions, e.g., ReLU
   
 ### Functionality:
-  - It should be able to build a fully connected neural network given the architecture as a dictionary i.e. dictionary should have this form {"layer_number: 3", "node_array": [3, 3, 1], "activation_array": ["sigmoid", "sigmoid", "linear"]}.
+  - It should be able to build a fully connected neural network given the architecture as a dictionary i.e. dictionary should have this form {"layer_number": 3, "node_array": [3, 3, 1], "activation_array": ["sigmoid", "sigmoid", "linear"]}.
   - It will be able to train a fully connected neural network given training data with corresponding label.
   - It will also calculate respective layer errors.
   - It optimizes the weights using gradient descent
