@@ -4,7 +4,7 @@ This project facilitates training a fully connected neural network to predict ou
 ### Till now this project has:
 
   - Forward propagation to get an estimated output
-  - Calculating the cost using, $MSE (X,\theta)= \frac{1}{2N}\sum_{i = 1}^{N}\left (\hat{y}_{i} - y_{i} \right)^{2}$
+  - Calculating the cost using, $MSE (X,\theta)= \frac{1}{2N}\sum_{i = 1}^{N}\left (\hat{y} - y \right)^{2}$
   - Backward propagation to calculate the layer errors
   - Calculate the derivatives of the cost w.r.t the trainable variables i.e. the weights and biases of the neural network
   - Update the weights and biases of the neural network using gradient descent to optimize the network.
