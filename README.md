@@ -22,7 +22,7 @@ This project facilitates training a fully connected neural network to predict ou
   - It will also calculate respective layer errors.
   - It optimizes the weights using gradient descent
 
-You will need to install [python](https://www.python.org) and [numpy] (https://numpy.org). If you have anaconda installed run the following:
+You will need to install [python](https://www.python.org) and [numpy](https://numpy.org). If you have anaconda installed run the following:
 ```bash
 conda create -n envName python numpy
 ```
