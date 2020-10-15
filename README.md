@@ -1,5 +1,5 @@
 # Neural_Network_from_Scratch
-This project facilitates training a fully connected neural network to predict outputs for given input data. If you are not seeing the equations below in the correct format please install the [MathJax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en) in your chrome browser.
+This project facilitates training a fully connected neural network to predict outputs for given input data. If you are not seeing the equations below in the correct format, please install the [MathJax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en) plugin in your chrome browser.
 
 ### Till now this project has:
 
@@ -22,7 +22,7 @@ This project facilitates training a fully connected neural network to predict ou
   - It will also calculate respective layer errors.
   - It optimizes the weights using gradient descent
 
-You will need to install [python](https://www.python.org) and [numpy](https://numpy.org). If you have anaconda installed run the following:
+You will need to install [python](https://www.python.org) and [numpy](https://numpy.org). If you have anaconda installed, run the following:
 ```bash
 conda create -n envName python numpy
 ```
