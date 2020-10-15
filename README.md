@@ -4,11 +4,11 @@ This project facilitates training a fully connected neural network to predict ou
 ### Till now this project has:
 
   - Forward propagation to get an estimated output
-  - Calculating the cost using, MSE (X, \boldsymbol{\theta })= \frac{1}{2N}\sum_{i = 1}^{N}\left ( \hat{y}_{i} - y_{i} \right )^{2}
+  - Calculating the cost using, $$MSE (X, \theta)= \frac{1}{2N}\sum_{i = 1}^{N}\left ( \hat{y}_{i} - y_{i} \right )^{2}$$
   - Backward propagation to calculate the layer errors
   - Calculate the derivatives of the cost w.r.t the trainable variables i.e. the weights and biases of the neural network
   - Update the weights and biases of the neural network using gradient descent to optimize the network.
-  - Activation function: sigmoid, S(x) = \frac{1}{1+e^{-x}}; linear
+  - Activation function: sigmoid, $$S(x) = \frac{1}{1+e^{-x}}$$; linear
 
 ### More to come:
 
@@ -21,3 +21,9 @@ This project facilitates training a fully connected neural network to predict ou
   - It will be able to train a fully connected neural network given training data with corresponding label.
   - It will also calculate respective layer errors.
   - It optimizes the weights using gradient descent
+
+You will need to install [python](https://www.python.org) and [numpy] (https://numpy.org). If you have anaconda installed run the following:
+```bash
+conda create -n envName python numpy
+```
+This will create a conda environment with python and numpy installed in it. Run `conda activate envName` to activate or `conda deactivate` to deactivate the environment.
