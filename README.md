@@ -1,5 +1,5 @@
 # Neural_Network_from_Scratch
-This project facilitates training a fully connected neural network to predict outputs for given input data. 
+This project facilitates training a fully connected neural network to predict outputs for given input data. If you are not seeing the equations below in the correct format please install the [MathJax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en) in your chrome browser.
 
 ### Till now this project has:
 
@@ -8,7 +8,7 @@ This project facilitates training a fully connected neural network to predict ou
   - Backward propagation to calculate the layer errors
   - Calculate the derivatives of the cost w.r.t the trainable variables i.e. the weights and biases of the neural network
   - Update the weights and biases of the neural network using gradient descent to optimize the network.
-  - Activation function: sigmoid, $S(x) = \frac{1}{1+e^{-x}}$; linear
+  - Activation function: sigmoid, $S(x) = \frac{1}{1+e^{-x}}$; linear.
 
 ### More to come:
 
